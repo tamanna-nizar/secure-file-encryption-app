@@ -1,4 +1,4 @@
-🔐 Secure File Encryption App
+<h1>🔐 Secure File Encryption App</h1>
 A modern web application for encrypting and decrypting files securely using a simple and user-friendly interface.
 
 🌟 Features
